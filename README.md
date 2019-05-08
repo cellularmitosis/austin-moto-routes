@@ -2,7 +2,7 @@
 
 ## 12
 
-![](media/12.png)
+[![](media/12.png)](raw/master/media/12.png)
 
 ## 1431
 
